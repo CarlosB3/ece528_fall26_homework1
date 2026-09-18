@@ -171,3 +171,9 @@ void LEDs_Init(void)
 
 ### Test Case 3
 ![Fibonacci Test 3](Test_Cases/HW1FibTest3.png)
+
+### Test Case 4
+![Fibonacci Test 4](Test_Cases/HW1FibTest4.png)
+
+### Test Case 5
+![Fibonacci Test 5](Test_Cases/HW1FibTest5.png)
