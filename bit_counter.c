@@ -17,6 +17,6 @@ while (num != 0){
     num &= (num-1);
     count++;
 }
-printf("Number of bits set in %d: %d", n, count);
+printf("Number of bits set in %d: %d\n", n, count);
 return 0;
 }

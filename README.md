@@ -125,3 +125,49 @@ void LEDs_Init(void)
     P7->DIR |= 0xFF;
 }
 ```
+
+# Section II: Programming Assignments
+
+## Integer Sign and Magnitude
+
+### Test Case 1
+![Sign Test 1](Test_Cases/HW1SignTest1.png)
+
+### Test Case 2
+![Sign Test 2](Test_Cases/HW1SignTest2.png)
+
+### Test Case 3
+![Sign Test 3](Test_Cases/HW1SignTest3.png)
+
+### Test Case 4
+![Sign Test 4](Test_Cases/HW1SignTest4.png)
+
+### Test Case 5
+![Sign Test 5](Test_Cases/HW1SignTest5.png)
+## Bit Counter
+
+### Test Case 1
+![Sign Test 1](Test_Cases/HW1BitTest1.png)
+
+### Test Case 2
+![Sign Test 2](Test_Cases/HW1BitTest2.png)
+
+### Test Case 3
+![Sign Test 3](Test_Cases/HW1BitTest3.png)
+
+### Test Case 4
+![Sign Test 4](Test_Cases/HW1BitTest4.png)
+
+### Test Case 5
+![Sign Test 5](Test_Cases/HW1BitTest5.png)
+
+## Fibonacci
+
+### Test Case 1
+![Fibonacci Test 1](Test_Cases/HW1FibTest1.png)
+
+### Test Case 2
+![Fibonacci Test 2](Test_Cases/HW1FibTest2.png)
+
+### Test Case 3
+![Fibonacci Test 3](Test_Cases/HW1FibTest3.png)
