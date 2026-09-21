@@ -6,7 +6,13 @@ int num = 0;
 printf("ECE 528/L - Carlos Bautista - HW1\n");
 printf("Enter an integer: ");
 
-scanf("%d", &num);
+int scanResult = scanf("%d", &num);
+
+if (scanResult != 1)
+{
+    printf("Invalid input. Please enter an integer.\n");
+    return 0;
+}
 
 if(num > 0)
 {
