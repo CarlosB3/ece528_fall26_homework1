@@ -2,7 +2,7 @@
 
 ## 1. (a) What is the difference between a compiler and an interpreter?
 
-The compilee translates the source code into executable machine code and a interpreter translates and executes the program one statement at a time.
+The compiler translates the source code into executable machine code and a interpreter translates and executes the program one statement at a time.
 
 ### (b) What is the output of a C program’s `main()` function by default?
 
